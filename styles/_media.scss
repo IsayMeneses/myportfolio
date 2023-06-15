@@ -180,7 +180,7 @@
 @media screen and (max-width:1250px){
     .blogs{
         grid-template-columns: repeat(2, 1fr);
-        margin-top: 2rem;
+        margin-top: 6rem;
     }
     .portfolios{
         grid-template-columns: repeat(2, 1fr);
@@ -213,7 +213,7 @@
                 font-size: 4rem;
             }
             .bg-text{
-                font-size: 4.5rem;
+                font-size: 9rem;
             }
         }
     }
